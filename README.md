@@ -10,6 +10,7 @@
 
 <div align="center">
 
+Soy JaredPeSa. <br>
 Gracias por visitar mi perfil. <br>
 Sientete libre de revisar y editar mis proyectos. <br>
 Peguntame lo que sea aquí <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
